@@ -1,4 +1,7 @@
-finnhub
-python
-streamlit
-matplotlib
+
+finnhub-python==2.4.0
+
+matplotlib==3.4.1
+
+streamlit==0.80.0
+streamlit-ace==0.0.1
